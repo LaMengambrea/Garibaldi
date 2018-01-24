@@ -106,7 +106,7 @@ class LoginForm extends Component {
                                     label="Iniciar Sesión"
                                     labelPosition="after"
                                     floatStyle="center"
-                                    className="marginTop"
+                                    className="marginTop loginBtn"
                                     type="submit"
                                     />
                             </center>

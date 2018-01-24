@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "cypress": "^1.4.1",
     "node-fetch": "^1.7.1",
     "node-sass": "^4.5.0",
     "normalizr": "^3.2.4",
